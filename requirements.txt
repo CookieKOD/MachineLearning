@@ -1,0 +1,8 @@
+streamlit
+joblib
+pefile
+pandas
+scikit-learn
+os 
+time
+
