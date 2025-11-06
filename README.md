@@ -14,7 +14,7 @@ Développer un modèle de classification capable d’identifier des fichiers ex�
 ## Outils & technologies
 - Python 3.9+
 - Bibliothèques : `pandas`, `scikit-learn`, `joblib`
-- Dataset : "MalwareData"] basé sur la base de données de VirusTotal
+- Dataset : "MalwareData.csv" basé sur la base de données de VirusTotal
 - Visualisation : matplotlib/seaborn (graphiques dans `/images`)
 
 # Installation des dépendances
